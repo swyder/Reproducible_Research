@@ -24,7 +24,7 @@ reproducible research principles and discuss some examples how you can improve y
 
 **General**  
 - [Ten Simple Rules for Reproducible Computational Research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
-- [Practical Data Science for Stats](https://peerj.com/collections/50-practicaldatascistats/)
+- [Practical Data Science for Stats](https://peerj.com/collections/50-practicaldatascistats/) - Article collection
 - [Good Enough Practices in Scientific Computing](https://arxiv.org/abs/1609.00037v2)
 
 **Electronic notebooks**  
@@ -45,7 +45,7 @@ run analyses using GUI, take care of many aspects of reproducible research (hist
 ## Things mentionned in the discussion
 
 **Collaborative writing**
-- MS Word with track changed
+- MS Word with track changes
 - [Overleaf](https://www.overleaf.com)
 - [Authorea](https://www.authorea.com)
 - [Google Docs](https://www.google.com/docs/about)
