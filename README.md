@@ -26,6 +26,7 @@ reproducible research principles and discuss some examples how you can improve y
 - [Ten Simple Rules for Reproducible Computational Research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
 - [Practical Data Science for Stats](https://peerj.com/collections/50-practicaldatascistats/) - Article collection
 - [Good Enough Practices in Scientific Computing](https://arxiv.org/abs/1609.00037v2)
+- [A Quick Guide to Organizing Computational Biology Projects](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
 
 **Electronic notebooks**  
 allow to mix text, code and plots in the same document
